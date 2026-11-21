@@ -2,7 +2,7 @@
 with open("notes.txt", "w", encoding="utf-8") as f:
     f.write("Line 1\nLine 2\n")
 
-# Append
+# Appendtest
 with open("notes.txt", "a", encoding="utf-8") as f:
     f.write("Line 3\n")
 
